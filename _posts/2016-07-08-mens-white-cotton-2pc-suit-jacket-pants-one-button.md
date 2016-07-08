@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Mens White Cotton 2pc Suit (Jacket, Pants) (One Button)'
-datePublished: '2016-07-08T06:00:45.866Z'
-dateModified: '2016-07-08T05:59:48.138Z'
+datePublished: '2016-07-08T08:15:54.425Z'
+dateModified: '2016-07-08T06:47:28.835Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-08-mens-white-cotton-2pc-suit-jacket-pants-one-button.md
 authors: []
 publisher: null
