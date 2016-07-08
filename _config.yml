@@ -1,0 +1,28 @@
+name: Addicted Bespoke
+favicon: null
+layout_spectrum: 0.03547953208908439
+typography_spectrum: 0.8926753646228462
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8440445074811578
+  lightness: 0.28527906304225326
+  saturation: 0.8003334905952215
+  rhythmicContrast: 0.9109400880988687
+purpose: []
