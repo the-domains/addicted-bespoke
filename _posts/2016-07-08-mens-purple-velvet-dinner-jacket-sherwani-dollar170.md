@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Mens Purple Velvet Dinner Jacket (Sherwani) '
-datePublished: '2016-07-08T05:56:20.668Z'
-dateModified: '2016-07-08T05:55:56.975Z'
+description: Mens Purple Velvet Dinner Jacket (Sherwani)
+datePublished: '2016-07-08T05:58:07.035Z'
+dateModified: '2016-07-08T05:56:27.247Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-mens-purple-velvet-dinner-jacket-sherwani-dollar170.md
