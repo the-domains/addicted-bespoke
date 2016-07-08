@@ -7,10 +7,12 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-08T06:45:45.453Z'
-dateModified: '2016-07-08T06:25:03.387Z'
+datePublished: '2016-07-08T08:17:15.743Z'
+dateModified: '2016-07-08T08:16:31.294Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-08-a-custom-tailor-so-awesome-youll-become-addicted.md
 authors: []
 publisher: null
